@@ -1,0 +1,6 @@
+Flask
+SQLAlchemy
+marshmallow
+Flask-MySQL
+requests
+Celery
